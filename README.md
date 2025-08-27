@@ -175,6 +175,8 @@ This project implements a decentralized voting system with a hybrid architecture
 
 ## Project Demo
 
+> **Note:** The following screenshots are for illustration purposes only. The current version of the application (2025) may have an updated interface and features compared to these reference images.
+
 ### Login Screen
 ![Login Screen](Decentralized-Voting-System-main/public/login%20ss.png)
 
